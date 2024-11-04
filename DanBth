@@ -1,0 +1,7 @@
+Config = {
+    namescript = "DanBth hub",--Tên Script
+    logoscript = "92840593315974",--ID Logo Script
+    tacgia = "ôngroblox"-- Tên Tác Giả
+}
+_G.Team = "Pirate" 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KOBENFF/sdfd/refs/heads/main/Koatta.txt"))()
